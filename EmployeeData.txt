@@ -1,0 +1,2 @@
+mom         bob       FULLTIME         23     2141        3         12.5
+top         lot       CONTRACT         12     3324        5        14.75
